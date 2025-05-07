@@ -10,7 +10,6 @@
 		"tab.activeBackground": "#0d0d0d",
 		"tab.inactiveBackground": "#1a1a1a",
 		"tab.activeForeground": "#ff0000a5",
-		"editorGroupHeader.tabsBorder": "#ff00ff",
 		"sideBar.background": "#0f0f0fbc",
 		"sideBarSectionHeader.background": "#0a0a0a",
 		"activityBar.background": "#0d0d0d",
@@ -53,8 +52,8 @@
 		"editorCursor.foreground": "#ff00ff",
 		"editorLineNumber.foreground": "#ff00ff80",
 		"editorLineNumber.activeForeground": "#ff00ff",
-		"editorIndentGuide.background": "#ff00ff40",
-		"editorIndentGuide.activeBackground": "#ff00ff",
+		"editorIndentGuide.background1": "#ff00ff40",
+		"editorIndentGuide.activeBackground1": "#ff00ff",
 		"editorWhitespace.foreground": "#ff00ff40"
 	},
 	"tokenColors": [
@@ -287,6 +286,153 @@
 			"scope": ["support.class.js", "support.class.ts", "support.function.js", "support.function.ts"],
 			"settings": {
 				"foreground": "#00ff00"
+			}
+		},
+		{
+			"name": "Flutter/Dart Keywords",
+			"scope": ["keyword.other.dart"],
+			"settings": {
+				"foreground": "#00ffff"
+			}
+		},
+		{
+			"name": "Flutter/Dart Keywords",
+			"scope": ["keyword.operator.dart"],
+			"settings": {
+				"foreground": "#00ffff"
+			}
+		},
+		{
+			"name": "Flutter/Dart Keywords",
+			"scope": ["keyword.control.dart"],
+			"settings": {
+				"foreground": "#ff0062"
+			}
+		},
+		{
+			"name": "Flutter/Dart Functions",
+			"scope": ["entity.name.function.dart"],
+			"settings": {
+				"foreground": "#ff00ff"
+			}
+		},
+		{
+			"name": "Flutter/Dart Variables",
+			"scope": ["variable.other.readwrite.dart"],
+			"settings": {
+				"foreground": "#ff00ff"
+			}
+		},
+		{
+			"name": "Flutter/Dart Properties",
+			"scope": ["variable.other.property.dart"],
+			"settings": {
+				"foreground": "#ff00ff"
+			}
+		},
+		{
+			"name": "Flutter/Dart Constants",
+			"scope": ["variable.other.constant.dart"],
+			"settings": {
+				"foreground": "#ff0000"
+			}
+		},
+		{
+			"name": "Flutter/Dart Classes",
+			"scope": ["entity.name.type.class.dart"],
+			"settings": {
+				"foreground": "#00ffff"
+			}
+		},
+		{
+			"name": "Flutter/Dart Widgets",
+			"scope": ["entity.name.tag.custom.dart"],
+			"settings": {
+				"foreground": "#00ffff"
+			}
+		},
+		{
+			"name": "Flutter/Dart Strings",
+			"scope": ["string.quoted.dart"],
+			"settings": {
+				"foreground": "#ffff00"
+			}
+		},
+		{
+			"name": "Flutter/Dart Numbers",
+			"scope": ["constant.numeric.dart"],
+			"settings": {
+				"foreground": "#ff0000"
+			}
+		},
+		{
+			"name": "Flutter/Dart Comments",
+			"scope": ["comment.line.double-slash.dart"],
+			"settings": {
+				"foreground": "#ff00ff80"
+			}
+		},
+		{
+			"name": "Flutter/Dart Operators",
+			"scope": ["keyword.operator.dart"],
+			"settings": {
+				"foreground": "#00ffff"
+			}
+		},
+		{
+			"name": "Flutter/Dart Storage",
+			"scope": ["storage.type.dart", "storage.modifier.dart"],
+			"settings": {
+				"foreground": "#00ffff"
+			}
+		},
+		{
+			"name": "Flutter/Dart Support",
+			"scope": ["support.class.dart", "support.function.dart"],
+			"settings": {
+				"foreground": "#00ff00"
+			}
+		},
+		{
+			"name": "Flutter/Dart Imports",
+			"scope": ["keyword.control.import.dart", "keyword.control.export.dart"],
+			"settings": {
+				"foreground": "#ff00ff"
+			}
+		},
+		{
+			"name": "Flutter/Dart Decorators",
+			"scope": ["meta.decorator.dart", "decorator.dart"],
+			"settings": {
+				"foreground": "#ff00ff"
+			}
+		},
+		{
+			"name": "Flutter/Dart Decorator Symbol",
+			"scope": ["punctuation.definition.decorator.dart"],
+			"settings": {
+				"foreground": "#ff00ff"
+			}
+		},
+		{
+			"name": "Flutter/Dart Override",
+			"scope": ["storage.type.annotation.override.dart"],
+			"settings": {
+				"foreground": "#b19cd9"
+			}
+		},
+		{
+			"name": "Flutter/Dart Types",
+			"scope": ["entity.name.type.dart", "support.type.dart"],
+			"settings": {
+				"foreground": "#ffff00"
+			}
+		},
+		{
+			"name": "TypeScript Async/Await",
+			"scope": ["keyword.control.flow.ts"],
+			"settings": {
+				"foreground": "#b19cd9"
 			}
 		}
 	]
