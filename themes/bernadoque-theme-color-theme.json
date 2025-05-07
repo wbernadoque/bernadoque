@@ -54,7 +54,7 @@
 		"editorLineNumber.activeForeground": "#ff00ff",
 		"editorIndentGuide.background1": "#ff00ff40",
 		"editorIndentGuide.activeBackground1": "#ff00ff",
-		"editorWhitespace.foreground": "#ff00ff40"
+		"editorWhitespace.foreground": "#ff00ff40",
 	},
 	"tokenColors": [
 		{
