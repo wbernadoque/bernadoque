@@ -10,6 +10,12 @@ A vibrant cyberpunk-inspired VS Code theme that brings the neon-lit future to yo
 - 🖥️ Customized UI elements with cyberpunk aesthetics
 - 🎮 Optimized for JavaScript, TypeScript, and Flutter/Dart development
 
+## Screenshots
+
+![Bernadoque Theme Preview](bernadoque-theme.png)
+
+*The cyberpunk-inspired syntax highlighting and UI elements in action*
+
 ## Color Scheme
 
 The theme features a carefully crafted color palette inspired by cyberpunk aesthetics:
