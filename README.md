@@ -12,7 +12,7 @@ A vibrant cyberpunk-inspired VS Code theme that brings the neon-lit future to yo
 
 ## Screenshots
 
-![Bernadoque Theme Preview](bernadoque-theme.png)
+![Bernadoque Theme Preview](https://raw.githubusercontent.com/WesleyBernadoque/bernadoque-theme/main/images/bernadoque-theme.png)
 
 *The cyberpunk-inspired syntax highlighting and UI elements in action*
 
