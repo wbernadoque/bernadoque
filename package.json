@@ -3,9 +3,9 @@
   "displayName": "Bernadoque Theme",
   "description": "A dark theme with a focus on readability and a clean, modern look.",
   "publisher": "WesleyBernadoque",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "engines": {
-    "vscode": "^1.99.0"
+    "vscode": "^1.96.0"
   },
   "icon": "b.png",
   "categories": [
