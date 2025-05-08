@@ -9,9 +9,12 @@
 		"tab.activeBorderTop": "#01fff7",
 		"tab.activeBackground": "#0d0d0d",
 		"tab.inactiveBackground": "#272727",
-		"tab.activeForeground": "#ff0000",
-		"tab.inactiveForeground": "#ff0000c5",
+		"tab.border": "#ffff0043",
+		"tab.activeForeground": "#ffff00",
+		"activityBar.border": "#ffff00",
+		"tab.inactiveForeground": "#ffff0095", 
 		"sideBar.background": "#0f0f0fbc",
+		"sideBar.border": "#ffff00",
 		"sideBarSectionHeader.background": "#0a0a0a",
 		"activityBar.background": "#0d0d0d",
 		"activityBar.foreground": "#00ffff",
@@ -83,7 +86,7 @@
 			"name": "Functions",
 			"scope": ["entity.name.function", "support.function"],
 			"settings": {
-				"foreground": "#00ff00"
+				"foreground": "#9a65fd"
 			}
 		},
 		{

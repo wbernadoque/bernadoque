@@ -3,7 +3,7 @@
   "displayName": "Bernadoque Theme",
   "description": "A dark theme with a focus on readability and a clean, modern look.",
   "publisher": "WesleyBernadoque",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "engines": {
     "vscode": "^1.96.0"
   },
@@ -21,6 +21,11 @@
         "label": "bernadoque-theme",
         "uiTheme": "vs-dark",
         "path": "./themes/bernadoque-theme-color-theme.json"
+      },
+      {
+        "label": "bernadoque-theme-low",
+        "uiTheme": "vs-dark",
+        "path": "./themes/bernadoque-theme-low.json"
       }
     ]
   }
